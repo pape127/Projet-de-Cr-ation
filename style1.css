@@ -1,0 +1,169 @@
+
+.morts{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-image: url(mort.png)
+} 
+.natures{
+	 background-size: cover;
+    background-repeat: no-repeat;
+	background-image: url(naturee.png)
+}
+.solitudes{
+	 background-size: cover;
+    background-repeat: no-repeat;
+	background-image: url(solitudee.png)
+}
+.amours{
+ background-size: cover;
+    background-repeat: no-repeat;
+	background-image: url(amour.png)
+}
+body{
+	background: #b4b4b4; 
+}
+div {
+  padding: 35px;
+  background-origin: padding-box;
+
+}
+h1 {
+	text-align:center;
+	margin-top:100px;
+	font-size:70px;
+	color:black;
+	font-family: KolarRegular;
+   font-weight: normal;
+   font-style: normal;
+   border-style:dotted;
+   margin-left:500px;
+   margin-right:500px;
+   padding-top: 10px;
+   padding-bottom: 5px;
+}
+h2 {
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top: 0px;
+
+} 
+p {
+	align-items:justify;
+	margin-right:12px;
+	margin-left:12px;
+	text-align:center;
+	font-family:Garamond;
+	font-size:25px;
+	color: white;
+	margin-top: px;
+	margin-bottom: px;
+	padding-top: 0px;
+	
+	
+}
+.ombre  {
+	text-shadow: 8px 8px 12px black;
+	
+}
+a {
+	color: white;
+	text-decoration: none;
+	font-size:45px;
+	
+}	
+li {  
+	margin-bottom:15 px;
+	margin-top:15 px;
+	text-decoration: none;
+	margin-left:30px;
+	text-align: left;
+	padding-bottom: 10 px;
+	
+}
+ul {
+	color: black;
+	font-size:29px;
+	text-align:left;
+	
+	
+}
+.taille: {
+	font-size:28px;
+	color:black;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	text-align:justify;
+	margin-left:20px;
+
+	
+} 
+.tourne:hover {
+
+	color:red;
+	cursor:pointer;
+	transition: all 0,5s;
+	font-size:32px;
+ 
+}
+.image { 
+	padding-top: 10px;
+	padding-bottom: 40px;
+	align-items:right ;
+	
+}
+
+}	
+.image-cote {
+	align-items:right;
+}
+.rome {
+	display:flex;
+	padding-top: 10px;
+	text-align: center;
+	
+}	
+.rose {
+	text-align: center;
+	font-size:28px;
+	
+}	
+
+.magie:hover {
+	color:red;
+	cursor:pointer;
+	transition: all 0,5s;
+	font-size:32px;
+}
+.mode:hover {
+	color:yellow;
+	cursor:pointer;
+	transition: all 0,5s;
+	font-size:32px;
+}
+.mag:hover {
+	color:black;
+	cursor:pointer;
+	font-size:50px;
+}
+.tome {
+	display:flex;
+	padding-top: 10px;
+}	
+.tose {
+	align-items:left;
+	text-align: justify;
+	font-size:28px;
+}	
+.ombree {
+	text-shadow: 8px 8px 12px black; 
+	font-size:45px;
+}
+.justifie{
+	text-align: justify;
+	color: white; 
+	font-size:25px;
+	font-family:Garamond;
+	background:#3c3c3c;
+}
